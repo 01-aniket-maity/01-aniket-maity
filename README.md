@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Maity</h1>
 <h3 align="center">An Aspiring Software Developer and passionate about cutting-edge tech....</h3>
-- 🌱 I’m currently learning **JS, Backend web development**
+- 🌱 I’m currently learning **NodeJS, Backend web development**
 
 
 </div><h3 align="left">Connect with me:</h3>
